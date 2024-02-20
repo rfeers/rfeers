@@ -4,12 +4,12 @@ I am a Data Scientist and technical writer from Barcelona. I love working with d
 
 So... I want to share my passion with others and guide them into this vast field through writing and teaching. 
 
-**My Portfolio** 📊
+## **My Portfolio** 📊
 
 [Go check my Portfolio]([https://rfeers.substack.com/](https://github.com/rfeers/data-science-portfolio)) ✨👨🏻‍💻
 
 
-**Connect with me** 👨🏻‍💻
+## **Connect with me** 👨🏻‍💻
 
 | Media                | Summary                                              |
 |----------------------|------------------------------------------------------|

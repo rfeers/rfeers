@@ -12,10 +12,11 @@ You can find my project and previous work here:
 
 | Media                | Summary                                              |
 |----------------------|------------------------------------------------------|
-| [DataBites 💌](https://rfeers.substack.com/)      | My data science & AI newsletter                      |
-| [Medium ✍🏻](https://medium.com/@rfeers)         | My data science blog |
-| [LinkedIn 💼](https://www.linkedin.com/in/josep-ferrer-sanchez/)        | I share data cheatsheets about ML, Python, SQL and DataViz|
-| [X 🐦](https://twitter.com/rfeers)         | I share data cheatsheets about ML, Python, SQL and DataViz|
-| [Threads 🧵](https://www.threads.net/@rfeers)         | I share data cheatsheets about ML, Python, SQL and DataViz|
-| [KDnuggets Articles](https://www.kdnuggets.com/author/josep-ferrer) |All the articles I have written for KDnuggets |
+| [DataBites](https://rfeers.substack.com/) 💌     | My data science & AI newsletter                      |
+| [Medium](https://medium.com/@rfeers) ✍🏻        | My data science blog |
+| [LinkedIn](https://www.linkedin.com/in/josep-ferrer-sanchez/)  💼       | I share data cheatsheets about ML, Python, SQL and DataViz|
+| [X](https://twitter.com/rfeers) 🐦        | I share data cheatsheets about ML, Python, SQL and DataViz|
+| [Threads ](https://www.threads.net/@rfeers) 🧵        | I share data cheatsheets about ML, Python, SQL and DataViz|
+| [KDnuggets Articles](https://www.kdnuggets.com/author/josep-ferrer) 📝 |All the articles I have written for KDnuggets |
 
+![Profile views](https://komarev.com/ghpvc/?username=rfeers&label=Profile%20views&color=blue&style=flat-square)

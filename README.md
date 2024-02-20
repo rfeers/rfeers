@@ -22,7 +22,7 @@ So... I want to share my passion with others and guide them into this vast field
 
 ## Main Repositories & Projects:
 
-| Media                | Brief Description                                              |
+| Project                | Brief Description                                              |
 |----------------------|------------------------------------------------------|
 | [Data Science Portfolio](https://github.com/rfeers/data-science-portfolio)     | My data science portfolio |
 | [ML Basics](https://github.com/rfeers/ML-Basics)    | Summary of the most basic ML algorithms. |

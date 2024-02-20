@@ -6,10 +6,10 @@ So... I want to share my passion with others and guide them into this vast field
 
 ## **My Portfolio** 📊
 
-[Go check my Portfolio]([https://rfeers.substack.com/](https://github.com/rfeers/data-science-portfolio)) ✨👨🏻‍💻
+[Go check my Portfolio](https://rfeers.substack.com/](https://github.com/rfeers/data-science-portfolio) ✨👨🏻‍💻
 
 
-## **Connect with me** 👨🏻‍💻
+## **Connect with me** 🙋🏻‍♂️
 
 | Media                | Summary                                              |
 |----------------------|------------------------------------------------------|

@@ -32,6 +32,12 @@ So... I want to share my passion with others and guide them into this vast field
 | [Outpatient IPC signal](https://github.com/rfeers/Outpatient_IPGSignal_Monitoring)    | Final Bachelor Thesis. Generate a Matlab algorithm to track IPC signal.  |
 | [Teaspils Dashboard](https://github.com/rfeers/PredictingCarparksUsageBCN)    | Designing a human-centered dashboard. Research performed in UPF.  |
 
+## Courses:
+
+| Project                | Brief Description                                              |
+|----------------------|------------------------------------------------------|
+| [SQL Crash Course](https://github.com/CornelliusYW/SQL-Crash-Course)     | A beginner-friendly course designed to help you quickly grasp SQL fundamentals and build a solid foundation. |
+| [Learn DS the smart way ](https://www.learndatascience.ai/spaces/10362739/content)     | A practical introduction to data science concepts, tools, and workflows—designed to get you started efficiently and effectively. |
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=rfeers&label=Profile%20views&color=blue&style=flat-square)

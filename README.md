@@ -15,9 +15,7 @@ So... I want to share my passion with others and guide them into this vast field
 |----------------------|------------------------------------------------------|
 | [DataBites](https://rfeers.substack.com/) 💌     | My data science & AI newsletter                      |
 | [Medium](https://medium.com/@rfeers) ✍🏻        | My data science blog |
-| [LinkedIn](https://www.linkedin.com/in/josep-ferrer-sanchez/)  💼       | I share data cheatsheets about ML, Python, SQL and DataViz|
-| [X](https://twitter.com/rfeers) 🐦        | I share data cheatsheets about ML, Python, SQL and DataViz|
-| [Threads ](https://www.threads.net/@rfeers) 🧵        | I share data cheatsheets about ML, Python, SQL and DataViz|
+| [LinkedIn](https://www.linkedin.com/in/josep-ferrer-sanchez/), [X](https://twitter.com/rfeers),  [Threads ](https://www.threads.net/@rfeers)      | I share data cheatsheets about ML, Python, SQL and DataViz|
 | [KDnuggets Articles](https://www.kdnuggets.com/author/josep-ferrer) 📝 |All the articles I have written for KDnuggets |
 
 ## Main Repositories & Projects:
